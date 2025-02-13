@@ -69,5 +69,5 @@ python predict.py --image path_to_image.jpg
 ```
 
 ## Results
-The trained model achieves an accuracy of approximately **X%** on the test dataset. Below is a sample confusion matrix and accuracy plot
+The trained model achieves an accuracy of approximately **X%** on the test dataset. Below is a sample confusion matrix and accuracy plot.
 
