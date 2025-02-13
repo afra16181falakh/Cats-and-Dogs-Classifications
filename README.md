@@ -1,6 +1,6 @@
 ## Overview
 
-This project focuses on developing a machine learning model to classify images of cats and dogs. Using a convolutional neural network (CNN), the model is trained to distinguish between images of cats and dogs with high accuracy. This project demonstrates the application of deep learning techniques to image classification tasks
+This project focuses on developing a machine learning model to classify images of cats and dogs. Using a convolutional neural network (CNN), the model is trained to distinguish between images of cats and dogs with high accuracy. This project demonstrates the application of deep learning techniques to image classification tasks.
 
 ## Features
 - **Data Preprocessing**: Load, preprocess, and augment image data for training and validation.
